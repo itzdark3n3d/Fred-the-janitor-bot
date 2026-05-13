@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Created and mainted exclusively by _dark3n3d_, meant for the thorns smp.",
+        name: "Property of _dark3n3d_",
         // Activity type number (0 = Playing).
         type: 0, 
       },
